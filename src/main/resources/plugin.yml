@@ -1,0 +1,8 @@
+name: Webserver
+version: '${project.version}'
+main: com.greenjon902.webserver.Webserver
+api-version: 1.15
+prefix: WS
+authors: [ GreenJon902 ]
+description: Host a website on your Bukkit / Spigot / PaperMC Minecraft server
+website: https://github.com/GreenJon902
